@@ -1,0 +1,42 @@
+input{
+	background-color: blue;
+	color: white;
+	border-radius: 8px;
+}
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+#space{
+	margin-bottom: 40px;
+	display: none;
+}
+#rule{
+	font-family: 'Zilla Slab', serif;
+}
+#logo{
+	display: block;
+	max-width: 13%
+}
+#rood{
+	color: red;
+}
+#geel{
+	color: yellow;
+}
+#blauw{
+	color: blue;
+}
+button{
+	border-radius: 4px;
+}
+button:hover{
+	background-color: #C8C8C8
+}
+.black{
+	color: black;
+}
+.black:hover{
+	color: #3B3B3B;
+}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab');
